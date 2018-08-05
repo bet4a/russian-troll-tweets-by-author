@@ -1,8 +1,8 @@
 author_id,content,region,language,publish_date,harvested_date,following,followers,updates,post_type,retweet
-KirillAndy,Hello twitter!!,United States,LANGUAGE UNDEFINED,2017-05-25T16:59:00,2017-05-25T17:00:00,0E-10,0E-10,1.0000000000,,False
-KirillAndy,Hello world!,United States,English,2017-05-25T17:07:00,2017-05-25T17:07:00,0E-10,0E-10,2.0000000000,,False
-KirillAndy,Have you been in Russia?,United States,English,2017-05-25T17:18:00,2017-05-25T17:18:00,0E-10,0E-10,3.0000000000,,False
-KirillAndy,"I used to live in Moscow, now I live in New York!",United States,English,2017-05-25T17:39:00,2017-05-25T17:39:00,0E-10,0E-10,4.0000000000,,False
-KirillAndy,It`s gonna be a good day!!!!,United States,English,2017-05-25T17:49:00,2017-05-25T17:49:00,0E-10,0E-10,5.0000000000,,False
-KirillAndy,"""I swear it was a self-defense! That passport attacked me first!"" https://t.co/OBVJtYX51d",United States,English,2017-05-26T13:49:00,2017-05-26T13:49:00,17.0000000000,0E-10,6.0000000000,R,True
-KirillAndy,Louis Vuitton in Russia https://t.co/WPfeM14oPj,United States,English,2017-05-26T13:52:00,2017-05-26T13:52:00,17.0000000000,0E-10,10.0000000000,R,True
+KirillAndy,Hello twitter!!,United States,LANGUAGE UNDEFINED,2017-05-25 16:59:00,2017-05-25 17:00:00,0,0,1,,0
+KirillAndy,Hello world!,United States,English,2017-05-25 17:07:00,2017-05-25 17:07:00,0,0,2,,0
+KirillAndy,Have you been in Russia?,United States,English,2017-05-25 17:18:00,2017-05-25 17:18:00,0,0,3,,0
+KirillAndy,"I used to live in Moscow, now I live in New York!",United States,English,2017-05-25 17:39:00,2017-05-25 17:39:00,0,0,4,,0
+KirillAndy,It`s gonna be a good day!!!!,United States,English,2017-05-25 17:49:00,2017-05-25 17:49:00,0,0,5,,0
+KirillAndy,"""I swear it was a self-defense! That passport attacked me first!"" https://t.co/OBVJtYX51d",United States,English,2017-05-26 13:49:00,2017-05-26 13:49:00,17,0,6,R,1
+KirillAndy,Louis Vuitton in Russia https://t.co/WPfeM14oPj,United States,English,2017-05-26 13:52:00,2017-05-26 13:52:00,17,0,10,R,1
