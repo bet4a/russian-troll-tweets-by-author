@@ -33,8 +33,8 @@ In this repo, tweet data has been separated from author data. An [author info CS
 |`content`| No change.
 |`region`| No change.
 |`language`| No change.
-|`publish_date`| There is a single space separating the date and the time rather than a `T`. I’ve also ensured that all the tweet CSV files are sorted by this column in ascending order (earlier tweets appear first).
-|`harvested_date`| There is a single space separating the date and the time rather than a `T`.
+|`publish_date`| Datetimes are reformatted to mostly match the [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) standard—for example, `2016-11-29 14:05:00`. This format makes sorting much easier. By default, all the tweet CSV files are sorted by this column in ascending order (earlier tweets appear first).
+|`harvested_date`| Datetimes are reformatted, as above.
 |`following`|No change.
 |`followers`|No change.
 |`updates`|No change.
