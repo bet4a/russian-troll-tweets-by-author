@@ -21,7 +21,7 @@ In this repo, tweet data has been separated from author data. An [author info CS
 |`external_author_id`|Same as the original dataset, but floating-point formatting like `9.06000000000e+17` have been converted to regular forms (`906000000000000000`).
 |`account_type`|No change.
 |`account_category`| No change.
-|`new_june_2018`| At the moment, this is `True` or `False` rather than `1` or `0`. I should probably fix that.
+|`new_june_2018`| No change.
 |`congress_2017_id`| The [Jun 2017 Intelligence Committee data](https://democrats-intelligence.house.gov/uploadedfiles/exhibit_b.pdf) included user_ids in addition to handle names, which is included here.
 |`in_congress_2017`| Boolean indicator whether the user was listed in the November 2017 House Intelligence Committee dataset.
 |`in_congress_2018`| Boolean indicator whether the user was listed in the June 2018 House Intelligence Committee dataset.
